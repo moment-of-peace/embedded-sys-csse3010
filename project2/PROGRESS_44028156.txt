@@ -1,0 +1,20 @@
+The first selected commit: project2_milestone_221235 (22, May)
+A commit from milestone folder. Finish the sketch of core part 1 and 
+core part 2 based on the main.c file in milestone folder.
+
+The second selected commit: project2_271632 (27, May)
+Solve the problem that sometimes fail to send a message. Finish to 
+optimize the radio driver task, acc driver task, and some other 
+hardware driver so that they can match the project2 better. 
+
+The third selected commit: project2_291034 (29, May)
+Continue to optimize tasks related to radio message and solve the 
+problem that sometimes the board goes stuck. Besides, appropriate 
+sketch for auto-control was developed, and all other tasks except 
+challenge tasks was finished.
+
+The fourth selected commit: project2_022153 (02, Jun)
+Revise some errors in the rover auto-control task, and finish 
+challenge 2 (accelerometer based menu select) and challenge 8 
+(colorful CLI).
+
