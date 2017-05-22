@@ -17,5 +17,3 @@ The fourth selected commit: project2_022153 (02, Jun)
 Revise some errors in the rover auto-control task, and finish 
 challenge 2 (accelerometer based menu select) and challenge 8 
 (colorful CLI).
-
-hello
